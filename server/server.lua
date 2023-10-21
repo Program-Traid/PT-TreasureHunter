@@ -7,7 +7,6 @@ local chestObjects = {}
 local function TriggerTournamentParameters()
 
     -- Select Chest Location
-    TriggerEvent("PT-TreasureHunter:server:DeleteChest", 1111)
     chestInformation = Config.TreasureLocations[math.random(#Config.TreasureLocations)]
     chestLocation = chestInformation.spots[math.random(#chestInformation.spots)]
     chestObjects[1111] = { id = 1111, model = chestInformation.model, name = "TournamentChest" }
