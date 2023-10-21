@@ -1,4 +1,4 @@
-# 🏴‍☠️ Project: Traid - Treasure Hunter
+# 🏴‍☠️ Traid - Treasure Hunter
 
 ## Features
 
@@ -8,6 +8,10 @@
 - 🗺 *Infinite Spawn Locations and Search Locations* (Multiple Spawn Locations per Search Location)
 - 📬 *Notifications for Tournament Events* (Start, End, and Chest Discovery)
 - 🔄 *Upcoming Update*: Solo-Variation of Treasure Hunting
+
+## Showcase
+
+📺 [Watch the Traid - Treasure Hunter Showcase](https://youtu.be/oGgbomX4I9U?si=0xzBaDfPG6GwPR5T)
 
 ## Download
 
