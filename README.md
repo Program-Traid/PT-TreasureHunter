@@ -1,4 +1,4 @@
-# 🏴‍☠️ Traid - Treasure Hunter
+# 🏴‍☠️ Project: Traid - Treasure Hunter
 
 ## Features
 
@@ -11,7 +11,7 @@
 
 ## Showcase
 
-📺 [Watch the Traid - Treasure Hunter Showcase](https://youtu.be/oGgbomX4I9U?si=0xzBaDfPG6GwPR5T)
+📺 [Watch the Project: Traid - Treasure Hunter Showcase](https://youtu.be/oGgbomX4I9U?si=0xzBaDfPG6GwPR5T)
 
 ## Download
 
